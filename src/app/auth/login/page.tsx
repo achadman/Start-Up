@@ -93,7 +93,7 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="flex min-h-screen items-center justify-center bg-gradient-to-b from-orange-50 to-white dark:from-gray-900 dark:to-gray-800 px-4">
+    <div className="flex min-h-screen items-center justify-center bg-linear-to-b from-orange-50 to-white dark:from-gray-900 dark:to-gray-800 px-4">
       <div className="w-full max-w-md">
         {/* Logo and Title */}
         <div className="mb-8 text-center">
